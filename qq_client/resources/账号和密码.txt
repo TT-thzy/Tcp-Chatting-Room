@@ -1,0 +1,4 @@
+test=test
+photoTest=123
+registerTest=123
+root=root
